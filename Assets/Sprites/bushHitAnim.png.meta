@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: 58125a6c4535ecd45911ec1cc850fd47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -856642788680546893
+    second: bushHitAnim_0
+  - first:
+      213: 5214770624231979220
+    second: bushHitAnim_1
+  - first:
+      213: -5509067916909152875
+    second: bushHitAnim_2
+  - first:
+      213: -6279652742545360021
+    second: bushHitAnim_3
+  - first:
+      213: 800581086621537204
+    second: bushHitAnim_4
+  - first:
+      213: 27785525950937082
+    second: bushHitAnim_5
+  - first:
+      213: -4805117281178096361
+    second: bushHitAnim_6
+  - first:
+      213: 807298807606685177
+    second: bushHitAnim_7
+  - first:
+      213: -3730180933610042733
+    second: bushHitAnim_9
+  - first:
+      213: -4651132567082215723
+    second: bushHitAnim_11
+  - first:
+      213: -1216369896216419762
+    second: bushHitAnim_12
+  - first:
+      213: -606664795497408841
+    second: bushHitAnim_14
+  - first:
+      213: -6710693511423943625
+    second: bushHitAnim_16
+  - first:
+      213: 395291886179352958
+    second: bushHitAnim_17
+  - first:
+      213: 9127873723131569528
+    second: bushHitAnim_18
+  - first:
+      213: -6816791281902894088
+    second: bushHitAnim_19
+  - first:
+      213: 5330522393099305046
+    second: bushHitAnim_22
+  - first:
+      213: -1631471974831347739
+    second: bushHitAnim_23
+  - first:
+      213: -4432170488680625816
+    second: bushHitAnim_24
+  - first:
+      213: -3400923626379887893
+    second: bushHitAnim_25
+  - first:
+      213: -3254707619420076718
+    second: bushHitAnim_26
+  - first:
+      213: 8146411853483895662
+    second: bushHitAnim_27
+  - first:
+      213: 5144914270709112093
+    second: bushHitAnim_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bushHitAnim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 51
+        height: 39
+      alignment: 9
+      pivot: {x: 0.47730666, y: 0.4481835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5cb412ce79c14f0800000000000000
+      internalID: -856642788680546893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 209
+        width: 50
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4927243, y: 0.44714355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d83d72f0469e5840800000000000000
+      internalID: 5214770624231979220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 208
+        width: 51
+        height: 40
+      alignment: 9
+      pivot: {x: 0.47622323, y: 0.4636219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595f029faebdb83b0800000000000000
+      internalID: -5509067916909152875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 207
+        width: 51
+        height: 41
+      alignment: 9
+      pivot: {x: 0.48097858, y: 0.4792968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bb6c70a113ad8a0800000000000000
+      internalID: -6279652742545360021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 206
+        width: 52
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4696849, y: 0.48845127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b319f1b14c3c1b00800000000000000
+      internalID: 800581086621537204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 205
+        width: 53
+        height: 43
+      alignment: 9
+      pivot: {x: 0.46110448, y: 0.5028193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7f334e9c6b26000800000000000000
+      internalID: 27785525950937082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_6
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 204
+        width: 55
+        height: 44
+      alignment: 9
+      pivot: {x: 0.46251887, y: 0.5110231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71de9479a4bc05db0800000000000000
+      internalID: -4805117281178096361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_7
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 208
+        width: 56
+        height: 40
+      alignment: 9
+      pivot: {x: 0.47401538, y: 0.46362227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd2efefcf9143b00800000000000000
+      internalID: 807298807606685177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 53
+        height: 45
+      alignment: 9
+      pivot: {x: 0.44280276, y: 0.51886207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a0d38443cbb3cc0800000000000000
+      internalID: -3730180933610042733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 103
+        width: 60
+        height: 46
+      alignment: 9
+      pivot: {x: 0.47574818, y: 0.510544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d650dfa29bd37fb0800000000000000
+      internalID: -4651132567082215723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 102
+        width: 54
+        height: 47
+      alignment: 9
+      pivot: {x: 0.43487972, y: 0.5206396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42aa8426069e1fe0800000000000000
+      internalID: -1216369896216419762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_14
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 102
+        width: 56
+        height: 47
+      alignment: 9
+      pivot: {x: 0.41771698, y: 0.52321947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b654ae2591b497f0800000000000000
+      internalID: -606664795497408841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_16
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 101
+        width: 63
+        height: 48
+      alignment: 9
+      pivot: {x: 0.49807498, y: 0.53031445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c9e0f5ec3ded2a0800000000000000
+      internalID: -6710693511423943625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_17
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 101
+        width: 56
+        height: 49
+      alignment: 9
+      pivot: {x: 0.41988155, y: 0.5197972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71805a40eb5c7500800000000000000
+      internalID: 395291886179352958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_18
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 106
+        width: 57
+        height: 44
+      alignment: 9
+      pivot: {x: 0.4085233, y: 0.46692935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87521e52ac8bcae70800000000000000
+      internalID: 9127873723131569528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_19
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 100
+        width: 58
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4038286, y: 0.52910185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3c23e2274e561a0800000000000000
+      internalID: -6816791281902894088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 57
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4106517, y: 0.51902103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65003fbcfd1d9f940800000000000000
+      internalID: 5330522393099305046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 7
+        width: 58
+        height: 43
+      alignment: 9
+      pivot: {x: 0.40592036, y: 0.4520606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e72c2ff1e8db59e0800000000000000
+      internalID: -1631471974831347739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 7
+        width: 58
+        height: 41
+      alignment: 9
+      pivot: {x: 0.40173867, y: 0.47633985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869c8365c64cd72c0800000000000000
+      internalID: -4432170488680625816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_25
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 7
+        width: 58
+        height: 45
+      alignment: 9
+      pivot: {x: 0.40382913, y: 0.43532905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beab46d0bfd7dc0d0800000000000000
+      internalID: -3400923626379887893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_26
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 7
+        width: 56
+        height: 42
+      alignment: 9
+      pivot: {x: 0.41771698, y: 0.46535474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25585b01aa4f4d2d0800000000000000
+      internalID: -3254707619420076718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_27
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 12
+        width: 47
+        height: 37
+      alignment: 9
+      pivot: {x: 0.49741966, y: 0.38857356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b60f05b6edd0170800000000000000
+      internalID: 8146411853483895662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushHitAnim_28
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 12
+        width: 47
+        height: 36
+      alignment: 9
+      pivot: {x: 0.49741703, y: 0.40231985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d54713548666740800000000000000
+      internalID: 5144914270709112093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

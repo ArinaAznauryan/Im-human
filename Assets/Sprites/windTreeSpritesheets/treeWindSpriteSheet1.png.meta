@@ -1,0 +1,2280 @@
+fileFormatVersion: 2
+guid: a902a5f71fc07fc458ce0eeb5ac3d806
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7683702715520496069
+    second: treeWindSpriteSheet1_0
+  - first:
+      213: 5501877642532178425
+    second: treeWindSpriteSheet1_1
+  - first:
+      213: -4059131413162070161
+    second: treeWindSpriteSheet1_2
+  - first:
+      213: -4373825117982823760
+    second: treeWindSpriteSheet1_3
+  - first:
+      213: -9041449126596291694
+    second: treeWindSpriteSheet1_4
+  - first:
+      213: -3995490561593151182
+    second: treeWindSpriteSheet1_5
+  - first:
+      213: -8535198518606907847
+    second: treeWindSpriteSheet1_6
+  - first:
+      213: 7257466953611024589
+    second: treeWindSpriteSheet1_7
+  - first:
+      213: -1568801928324636189
+    second: treeWindSpriteSheet1_8
+  - first:
+      213: -2447806264136348603
+    second: treeWindSpriteSheet1_9
+  - first:
+      213: 4864867219563666842
+    second: treeWindSpriteSheet1_10
+  - first:
+      213: -768497979320669823
+    second: treeWindSpriteSheet1_11
+  - first:
+      213: -7122299947703892773
+    second: treeWindSpriteSheet1_12
+  - first:
+      213: 3160646198528849484
+    second: treeWindSpriteSheet1_13
+  - first:
+      213: 3659987490534791746
+    second: treeWindSpriteSheet1_14
+  - first:
+      213: -1282093053359990518
+    second: treeWindSpriteSheet1_15
+  - first:
+      213: -1657496467947157097
+    second: treeWindSpriteSheet1_16
+  - first:
+      213: -7727147011619789594
+    second: treeWindSpriteSheet1_17
+  - first:
+      213: 7195227684998443607
+    second: treeWindSpriteSheet1_18
+  - first:
+      213: 3432620250780799752
+    second: treeWindSpriteSheet1_19
+  - first:
+      213: 9053928585870361852
+    second: treeWindSpriteSheet1_20
+  - first:
+      213: 7735592383112953322
+    second: treeWindSpriteSheet1_21
+  - first:
+      213: 7381951188926088006
+    second: treeWindSpriteSheet1_22
+  - first:
+      213: -5341625949550009399
+    second: treeWindSpriteSheet1_23
+  - first:
+      213: 7051480562716712533
+    second: treeWindSpriteSheet1_24
+  - first:
+      213: -144648400646010413
+    second: treeWindSpriteSheet1_25
+  - first:
+      213: 8437584668965008895
+    second: treeWindSpriteSheet1_26
+  - first:
+      213: -651132973815468402
+    second: treeWindSpriteSheet1_27
+  - first:
+      213: 9082940328607136488
+    second: treeWindSpriteSheet1_28
+  - first:
+      213: -3325273176049976357
+    second: treeWindSpriteSheet1_29
+  - first:
+      213: 510394013422823764
+    second: treeWindSpriteSheet1_30
+  - first:
+      213: -1867811084600105563
+    second: treeWindSpriteSheet1_31
+  - first:
+      213: 5408161764262296220
+    second: treeWindSpriteSheet1_32
+  - first:
+      213: -1882748137972484060
+    second: treeWindSpriteSheet1_33
+  - first:
+      213: -6759872490651306026
+    second: treeWindSpriteSheet1_34
+  - first:
+      213: -1475723797178348901
+    second: treeWindSpriteSheet1_35
+  - first:
+      213: -5302043315668870313
+    second: treeWindSpriteSheet1_36
+  - first:
+      213: 8830053615007126304
+    second: treeWindSpriteSheet1_37
+  - first:
+      213: -9220855031934145753
+    second: treeWindSpriteSheet1_38
+  - first:
+      213: 4983959297162307053
+    second: treeWindSpriteSheet1_39
+  - first:
+      213: 2004056228775140109
+    second: treeWindSpriteSheet1_40
+  - first:
+      213: 124815445337460399
+    second: treeWindSpriteSheet1_41
+  - first:
+      213: 5993422276547343684
+    second: treeWindSpriteSheet1_42
+  - first:
+      213: -5153479119688890360
+    second: treeWindSpriteSheet1_43
+  - first:
+      213: -7278375400229362689
+    second: treeWindSpriteSheet1_44
+  - first:
+      213: -6937186056283882300
+    second: treeWindSpriteSheet1_45
+  - first:
+      213: 2191441564366740072
+    second: treeWindSpriteSheet1_46
+  - first:
+      213: 4421029001236994617
+    second: treeWindSpriteSheet1_47
+  - first:
+      213: -265265018263241688
+    second: treeWindSpriteSheet1_48
+  - first:
+      213: 2620537916566272896
+    second: treeWindSpriteSheet1_49
+  - first:
+      213: 855895004162204952
+    second: treeWindSpriteSheet1_50
+  - first:
+      213: -573859819842974824
+    second: treeWindSpriteSheet1_51
+  - first:
+      213: 6560030905462256796
+    second: treeWindSpriteSheet1_52
+  - first:
+      213: 1331590822204423221
+    second: treeWindSpriteSheet1_53
+  - first:
+      213: -2845930357247211551
+    second: treeWindSpriteSheet1_54
+  - first:
+      213: 7751403000344219347
+    second: treeWindSpriteSheet1_55
+  - first:
+      213: -4087882328170161607
+    second: treeWindSpriteSheet1_56
+  - first:
+      213: -6364561844137469492
+    second: treeWindSpriteSheet1_57
+  - first:
+      213: 6562068926379629301
+    second: treeWindSpriteSheet1_58
+  - first:
+      213: 4853093426542515111
+    second: treeWindSpriteSheet1_59
+  - first:
+      213: 113353381847063002
+    second: treeWindSpriteSheet1_60
+  - first:
+      213: 8019916255250588832
+    second: treeWindSpriteSheet1_61
+  - first:
+      213: -8430861082738825098
+    second: treeWindSpriteSheet1_62
+  - first:
+      213: 4676344487422997195
+    second: treeWindSpriteSheet1_63
+  - first:
+      213: -7054496257714190795
+    second: treeWindSpriteSheet1_64
+  - first:
+      213: -6237723885987731059
+    second: treeWindSpriteSheet1_65
+  - first:
+      213: 7086464815475332067
+    second: treeWindSpriteSheet1_66
+  - first:
+      213: -6794012579096934829
+    second: treeWindSpriteSheet1_67
+  - first:
+      213: 4045605691526795592
+    second: treeWindSpriteSheet1_68
+  - first:
+      213: -4993997019411128845
+    second: treeWindSpriteSheet1_69
+  - first:
+      213: 1407987588611298224
+    second: treeWindSpriteSheet1_70
+  - first:
+      213: -3141327842999012306
+    second: treeWindSpriteSheet1_71
+  - first:
+      213: -4132344095058412742
+    second: treeWindSpriteSheet1_72
+  - first:
+      213: -5325197517903884060
+    second: treeWindSpriteSheet1_73
+  - first:
+      213: -631549076195621534
+    second: treeWindSpriteSheet1_74
+  - first:
+      213: -2230682011652806210
+    second: treeWindSpriteSheet1_75
+  - first:
+      213: 871903674218567913
+    second: treeWindSpriteSheet1_76
+  - first:
+      213: 1725126998849607551
+    second: treeWindSpriteSheet1_77
+  - first:
+      213: -4919053574050530210
+    second: treeWindSpriteSheet1_78
+  - first:
+      213: -8302016679913217819
+    second: treeWindSpriteSheet1_79
+  - first:
+      213: 2393136959327062865
+    second: treeWindSpriteSheet1_80
+  - first:
+      213: 1945555020922668693
+    second: treeWindSpriteSheet1_81
+  - first:
+      213: -8896649542746155932
+    second: treeWindSpriteSheet1_82
+  - first:
+      213: 4543613827318420421
+    second: treeWindSpriteSheet1_83
+  - first:
+      213: -3932704290336836397
+    second: treeWindSpriteSheet1_84
+  - first:
+      213: 5541491211825712427
+    second: treeWindSpriteSheet1_85
+  - first:
+      213: -8527281903569956025
+    second: treeWindSpriteSheet1_86
+  - first:
+      213: 1648990892756514881
+    second: treeWindSpriteSheet1_87
+  - first:
+      213: -3866743132324608726
+    second: treeWindSpriteSheet1_88
+  - first:
+      213: -5363683865742551
+    second: treeWindSpriteSheet1_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2.3
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1212
+        width: 152
+        height: 142
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1bd46e8eef1aa60800000000000000
+      internalID: 7683702715520496069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1212
+        width: 152
+        height: 142
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f94bc0d0989a5c40800000000000000
+      internalID: 5501877642532178425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1212
+        width: 152
+        height: 142
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f68d56c711ba7c0800000000000000
+      internalID: -4059131413162070161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1212
+        width: 152
+        height: 142
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bae3fc8a3d0d43c0800000000000000
+      internalID: -4373825117982823760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_4
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1212
+        width: 152
+        height: 142
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293567a4ce1568280800000000000000
+      internalID: -9041449126596291694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_5
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1212
+        width: 152
+        height: 142
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23170d4d08a2d88c0800000000000000
+      internalID: -3995490561593151182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_6
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1212
+        width: 152
+        height: 142
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936bef23b22ec8980800000000000000
+      internalID: -8535198518606907847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_7
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1212
+        width: 152
+        height: 142
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc81f1b1eb3b7b460800000000000000
+      internalID: 7257466953611024589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_8
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1212
+        width: 152
+        height: 142
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1234345fe7a3ae0800000000000000
+      internalID: -1568801928324636189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_9
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1212
+        width: 152
+        height: 142
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c4d2bfb25a70ed0800000000000000
+      internalID: -2447806264136348603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1066
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dd88506fa738340800000000000000
+      internalID: 4864867219563666842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1066
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1896cf3d82fb555f0800000000000000
+      internalID: -768497979320669823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1066
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd48351eee1882d90800000000000000
+      internalID: -7122299947703892773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_13
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1066
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c463004c8fedcdb20800000000000000
+      internalID: 3160646198528849484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_14
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1066
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a13bf2b33eac230800000000000000
+      internalID: 3659987490534791746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_15
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1066
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a095b792927153ee0800000000000000
+      internalID: -1282093053359990518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_16
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1066
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7998b838eb36ff8e0800000000000000
+      internalID: -1657496467947157097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_17
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1066
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e46e2dabb8a3c490800000000000000
+      internalID: -7727147011619789594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_18
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1066
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752736225759ad360800000000000000
+      internalID: 7195227684998443607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_19
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1066
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8031a986eed13af20800000000000000
+      internalID: 3432620250780799752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4ce8e341406ad70800000000000000
+      internalID: 9053928585870361852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 920
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed3aaa99485a5b60800000000000000
+      internalID: 7735592383112953322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 920
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643463dbe75f17660800000000000000
+      internalID: 7381951188926088006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_23
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 920
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c32012008bbed5b0800000000000000
+      internalID: -5341625949550009399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_24
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 920
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e1d412634ebd160800000000000000
+      internalID: 7051480562716712533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_25
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 920
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d98a26cb0b1efdf0800000000000000
+      internalID: -144648400646010413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_26
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 920
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5f0fb5d82581570800000000000000
+      internalID: 8437584668965008895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_27
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 920
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e6f2a9206b6f6f0800000000000000
+      internalID: -651132973815468402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_28
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 920
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eab2bafa161d0e70800000000000000
+      internalID: 9082940328607136488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_29
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 920
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbf7681aa14ad1d0800000000000000
+      internalID: -3325273176049976357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 774
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459ad89a6a8451700800000000000000
+      internalID: 510394013422823764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_31
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 774
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5afd2f6b33416e0800000000000000
+      internalID: -1867811084600105563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_32
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 774
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a34be8876ad0b40800000000000000
+      internalID: 5408161764262296220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_33
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 774
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4283f923b822fd5e0800000000000000
+      internalID: -1882748137972484060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_34
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 774
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d73bcbf8cb1032a0800000000000000
+      internalID: -6759872490651306026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_35
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 774
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a0892760d258be0800000000000000
+      internalID: -1475723797178348901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_36
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 774
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b92d122bb5b66b0800000000000000
+      internalID: -5302043315668870313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_37
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 774
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023572eaaf6aa8a70800000000000000
+      internalID: 8830053615007126304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_38
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 774
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b2130e331f80080800000000000000
+      internalID: -9220855031934145753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_39
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 774
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de56d5a13949a2540800000000000000
+      internalID: 4983959297162307053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b1d0aa586dfcb10800000000000000
+      internalID: 2004056228775140109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_41
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 628
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae42d97cfe6bb100800000000000000
+      internalID: 124815445337460399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_42
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 628
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44574865ec9ec2350800000000000000
+      internalID: 5993422276547343684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_43
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 628
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8080d818b0a2b78b0800000000000000
+      internalID: -5153479119688890360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_44
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 628
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3236fc2240efa90800000000000000
+      internalID: -7278375400229362689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_45
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 628
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccf76e590a2abf90800000000000000
+      internalID: -6937186056283882300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_46
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 628
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a1b16fd70996e10800000000000000
+      internalID: 2191441564366740072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_47
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 628
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a5e68f376aa5d30800000000000000
+      internalID: 4421029001236994617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_48
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 628
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cf41f0fd6915cf0800000000000000
+      internalID: -265265018263241688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_49
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 628
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bff55d9550e5420800000000000000
+      internalID: 2620537916566272896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815ae18b8ffb0eb00800000000000000
+      internalID: 855895004162204952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_51
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 482
+        width: 152
+        height: 145
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bc367c88d3908f0800000000000000
+      internalID: -573859819842974824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_52
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 482
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9479ab1a59e90b50800000000000000
+      internalID: 6560030905462256796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_53
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 482
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c3aa73cc2ca7210800000000000000
+      internalID: 1331590822204423221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_54
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 482
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e787c02b693188d0800000000000000
+      internalID: -2845930357247211551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_55
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 482
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de0a6ac5f3829b60800000000000000
+      internalID: 7751403000344219347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_56
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 482
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a12d95eace447c0800000000000000
+      internalID: -4087882328170161607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_57
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 482
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc95e2149b88ca7a0800000000000000
+      internalID: -6364561844137469492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_58
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 482
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa9c74dbe6211b50800000000000000
+      internalID: 6562068926379629301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_59
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 482
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a399d632c6a95340800000000000000
+      internalID: 4853093426542515111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9551bdc46b29100800000000000000
+      internalID: 113353381847063002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_61
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 336
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4a792c7577c4f60800000000000000
+      internalID: 8019916255250588832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_62
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 336
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678efac83809ffa80800000000000000
+      internalID: -8430861082738825098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_63
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 336
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc23434f886b5e040800000000000000
+      internalID: 4676344487422997195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_64
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 336
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5368f99a705691e90800000000000000
+      internalID: -7054496257714190795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_65
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 336
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d896bb0bc272f69a0800000000000000
+      internalID: -6237723885987731059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_66
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 336
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e316b7343e285260800000000000000
+      internalID: 7086464815475332067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_67
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 336
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35644673e81d6b1a0800000000000000
+      internalID: -6794012579096934829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_68
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 336
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841d0c021f0e42830800000000000000
+      internalID: 4045605691526795592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_69
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 336
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdd3a09b22c1bab0800000000000000
+      internalID: -4993997019411128845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3d553804d2a8310800000000000000
+      internalID: 1407987588611298224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_71
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 190
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24fff268f2c764d0800000000000000
+      internalID: -3141327842999012306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_72
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 190
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b3c5c80f6f6a6c0800000000000000
+      internalID: -4132344095058412742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_73
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 190
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e01c8252191916b0800000000000000
+      internalID: -5325197517903884060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_74
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 190
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265422716794c37f0800000000000000
+      internalID: -631549076195621534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_75
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 190
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9a49077860b01e0800000000000000
+      internalID: -2230682011652806210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_76
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 190
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8d72ca5cf991c00800000000000000
+      internalID: 871903674218567913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_77
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 190
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77ddd68dd1e0f710800000000000000
+      internalID: 1725126998849607551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_78
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 190
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c3a9f26d20cbbb0800000000000000
+      internalID: -4919053574050530210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_79
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 190
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0a76ac0df49cc80800000000000000
+      internalID: -8302016679913217819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b4c879261263120800000000000000
+      internalID: 2393136959327062865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_81
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 44
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596c219cbfffffa10800000000000000
+      internalID: 1945555020922668693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_82
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 44
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46459799060c88480800000000000000
+      internalID: -8896649542746155932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_83
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 44
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c31edde3b82e0f30800000000000000
+      internalID: 4543613827318420421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_84
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 44
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d471d7c84a3c69c0800000000000000
+      internalID: -3932704290336836397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_85
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 44
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d02d6a5e457ec40800000000000000
+      internalID: 5541491211825712427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_86
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 44
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7439816c94209a980800000000000000
+      internalID: -8527281903569956025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_87
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 44
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1483b90fa7462e610800000000000000
+      internalID: 1648990892756514881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_88
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 44
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a254c18ab91965ac0800000000000000
+      internalID: -3866743132324608726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeWindSpriteSheet1_89
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 44
+        width: 152
+        height: 146
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923be7802c1fceff0800000000000000
+      internalID: -5363683865742551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
