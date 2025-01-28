@@ -1,0 +1,1128 @@
+fileFormatVersion: 2
+guid: 2c7395eca49cfcd47b8d27ddddb7c3b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4083361311472057358
+    second: cartMoving_0
+  - first:
+      213: -3528352485110145916
+    second: cartMoving_1
+  - first:
+      213: -1157993336580167650
+    second: cartMoving_2
+  - first:
+      213: 2887841309929165612
+    second: cartMoving_3
+  - first:
+      213: 4067262660833105858
+    second: cartMoving_4
+  - first:
+      213: 2061013736336126999
+    second: cartMoving_5
+  - first:
+      213: -488740406087016733
+    second: cartMoving_6
+  - first:
+      213: -2650178324232490241
+    second: cartMoving_7
+  - first:
+      213: 6282952107005666809
+    second: cartMoving_8
+  - first:
+      213: -8081438020215254967
+    second: cartMoving_9
+  - first:
+      213: 2638255907172249732
+    second: cartMoving_10
+  - first:
+      213: -4027647123571039776
+    second: cartMoving_11
+  - first:
+      213: 5687301275114631930
+    second: cartMoving_12
+  - first:
+      213: -8297173058692415637
+    second: cartMoving_13
+  - first:
+      213: -9044724071069381763
+    second: cartMoving_14
+  - first:
+      213: 5600574724178734681
+    second: cartMoving_15
+  - first:
+      213: -8695493448310825262
+    second: cartMoving_16
+  - first:
+      213: 4512643894087759577
+    second: cartMoving_17
+  - first:
+      213: 3890255613170825737
+    second: cartMoving_18
+  - first:
+      213: 7417891052579607153
+    second: cartMoving_19
+  - first:
+      213: -5529231627716835390
+    second: cartMoving_20
+  - first:
+      213: 7484261573790611110
+    second: cartMoving_21
+  - first:
+      213: -3426411711682649429
+    second: cartMoving_22
+  - first:
+      213: 7999358469858751463
+    second: cartMoving_23
+  - first:
+      213: 888374019277957645
+    second: cartMoving_24
+  - first:
+      213: -6966323998846835748
+    second: cartMoving_25
+  - first:
+      213: 5597263363019136479
+    second: cartMoving_26
+  - first:
+      213: 1182263845091585545
+    second: cartMoving_27
+  - first:
+      213: 2630347963652587840
+    second: cartMoving_28
+  - first:
+      213: 2096198253332412948
+    second: cartMoving_29
+  - first:
+      213: -5632484507649084699
+    second: cartMoving_30
+  - first:
+      213: 4990980592674562012
+    second: cartMoving_31
+  - first:
+      213: -2533650831157609518
+    second: cartMoving_32
+  - first:
+      213: -6304768739650092029
+    second: cartMoving_33
+  - first:
+      213: -3605088963293252175
+    second: cartMoving_34
+  - first:
+      213: 469526553386918761
+    second: cartMoving_35
+  - first:
+      213: 718139846398699643
+    second: cartMoving_36
+  - first:
+      213: 5203919560555114724
+    second: cartMoving_37
+  - first:
+      213: 8417453470087437146
+    second: cartMoving_38
+  - first:
+      213: -2137166124495887029
+    second: cartMoving_39
+  - first:
+      213: -5126968465237832896
+    second: cartMoving_40
+  - first:
+      213: 4107411014718841219
+    second: cartMoving_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2.6
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cartMoving_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 795
+        width: 65
+        height: 71
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f38224958cf457c0800000000000000
+      internalID: -4083361311472057358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 795
+        width: 65
+        height: 71
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c94aadb16c80fc0800000000000000
+      internalID: -3528352485110145916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 796
+        width: 65
+        height: 70
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18aed8123bfdefe0800000000000000
+      internalID: -1157993336580167650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 796
+        width: 65
+        height: 71
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23d606fe5ca31820800000000000000
+      internalID: 2887841309929165612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 796
+        width: 65
+        height: 71
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7da2b37d1d17830800000000000000
+      internalID: 4067262660833105858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 796
+        width: 65
+        height: 71
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714f38fc2113a9c10800000000000000
+      internalID: 2061013736336126999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 796
+        width: 65
+        height: 71
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee9dcba035a739f0800000000000000
+      internalID: -488740406087016733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 668
+        width: 65
+        height: 71
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2bea8fadca83bd0800000000000000
+      internalID: -2650178324232490241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 668
+        width: 65
+        height: 70
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f56dde17a7813750800000000000000
+      internalID: 6282952107005666809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 668
+        width: 65
+        height: 70
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940dbba10f6f8df80800000000000000
+      internalID: -8081438020215254967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_10
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 668
+        width: 65
+        height: 70
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480f39df4c7fc9420800000000000000
+      internalID: 2638255907172249732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 668
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1aceec74cea18c0800000000000000
+      internalID: -4027647123571039776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 667
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af275d9806a5dee40800000000000000
+      internalID: 5687301275114631930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 668
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f72bc30158adc80800000000000000
+      internalID: -8297173058692415637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 539
+        width: 65
+        height: 70
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b0c7cd06faa7280800000000000000
+      internalID: -9044724071069381763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 539
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e64bcd90d39bd40800000000000000
+      internalID: 5600574724178734681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 540
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de52ba87c6635780800000000000000
+      internalID: -8695493448310825262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 540
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6bfe076b120ae30800000000000000
+      internalID: 4512643894087759577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_18
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 540
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a34846ed6fcf530800000000000000
+      internalID: 3890255613170825737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_19
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 540
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1725e835c94a1f660800000000000000
+      internalID: 7417891052579607153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 539
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7451531293443b0800000000000000
+      internalID: -5529231627716835390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 412
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a635ef7f307dd760800000000000000
+      internalID: 7484261573790611110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 412
+        width: 65
+        height: 70
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2eaeeb3b0f270d0800000000000000
+      internalID: -3426411711682649429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 412
+        width: 65
+        height: 70
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e371fa552e630f60800000000000000
+      internalID: 7999358469858751463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 412
+        width: 65
+        height: 71
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0aafb6b673245c00800000000000000
+      internalID: 888374019277957645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_25
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 411
+        width: 65
+        height: 71
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3a4727b35a25f90800000000000000
+      internalID: -6966323998846835748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 412
+        width: 65
+        height: 71
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd50138f597dad40800000000000000
+      internalID: 5597263363019136479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_27
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 412
+        width: 65
+        height: 71
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ea87504be386010800000000000000
+      internalID: 1182263845091585545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 284
+        width: 65
+        height: 71
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0414f29698fd08420800000000000000
+      internalID: 2630347963652587840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 284
+        width: 65
+        height: 70
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a3cac8431371d10800000000000000
+      internalID: 2096198253332412948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 284
+        width: 65
+        height: 70
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e27fa6be2565d1b0800000000000000
+      internalID: -5632484507649084699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 283
+        width: 65
+        height: 71
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf5c3bd766834540800000000000000
+      internalID: 4990980592674562012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_32
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 285
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db3aff2ef9a6dcd0800000000000000
+      internalID: -2533650831157609518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_33
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 284
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3044b224c36f088a0800000000000000
+      internalID: -6304768739650092029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 284
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5793f30b628fdc0800000000000000
+      internalID: -3605088963293252175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 156
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963ad33a9e7148600800000000000000
+      internalID: 469526553386918761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 156
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78e5aba26857f900800000000000000
+      internalID: 718139846398699643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 156
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0389ec449083840800000000000000
+      internalID: 5203919560555114724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_38
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 156
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bd0fd555dc0d470800000000000000
+      internalID: 8417453470087437146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_39
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 156
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45ac63abb24752e0800000000000000
+      internalID: -2137166124495887029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_40
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 156
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b8ede385959d8b0800000000000000
+      internalID: -5126968465237832896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartMoving_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 156
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381e7de4e84700930800000000000000
+      internalID: 4107411014718841219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

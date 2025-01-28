@@ -1,0 +1,1191 @@
+fileFormatVersion: 2
+guid: a73fecfb0c05be54482f2d60247c4b94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -530470952612462999
+    second: movingMirrorPart2_0
+  - first:
+      213: -136113945773112626
+    second: movingMirrorPart2_1
+  - first:
+      213: 1632874486461221449
+    second: movingMirrorPart2_2
+  - first:
+      213: 9211766365043081372
+    second: movingMirrorPart2_3
+  - first:
+      213: -8334543111182542518
+    second: movingMirrorPart2_4
+  - first:
+      213: 2611527582945995257
+    second: movingMirrorPart2_5
+  - first:
+      213: 4833634445820829476
+    second: movingMirrorPart2_6
+  - first:
+      213: 9137858031441433658
+    second: movingMirrorPart2_7
+  - first:
+      213: -755912205792405066
+    second: movingMirrorPart2_8
+  - first:
+      213: -4168806732066008767
+    second: movingMirrorPart2_9
+  - first:
+      213: -4536593669641349819
+    second: movingMirrorPart2_10
+  - first:
+      213: -4061405124801661133
+    second: movingMirrorPart2_11
+  - first:
+      213: -197700514339950437
+    second: movingMirrorPart2_12
+  - first:
+      213: 677195800367970497
+    second: movingMirrorPart2_13
+  - first:
+      213: 7990778169728590639
+    second: movingMirrorPart2_14
+  - first:
+      213: -7376749096313215922
+    second: movingMirrorPart2_15
+  - first:
+      213: 8868748678783143658
+    second: movingMirrorPart2_16
+  - first:
+      213: -3314498093979714694
+    second: movingMirrorPart2_17
+  - first:
+      213: -5917366614165164376
+    second: movingMirrorPart2_18
+  - first:
+      213: -1381610537545411783
+    second: movingMirrorPart2_19
+  - first:
+      213: -3938098406424544065
+    second: movingMirrorPart2_20
+  - first:
+      213: -3546099687157879843
+    second: movingMirrorPart2_21
+  - first:
+      213: 5250850326688055912
+    second: movingMirrorPart2_22
+  - first:
+      213: 1210609525475696914
+    second: movingMirrorPart2_23
+  - first:
+      213: 5012060487045756037
+    second: movingMirrorPart2_24
+  - first:
+      213: -7805711844383409698
+    second: movingMirrorPart2_25
+  - first:
+      213: 3787578245749339504
+    second: movingMirrorPart2_26
+  - first:
+      213: -6274443550530371593
+    second: movingMirrorPart2_27
+  - first:
+      213: -1085156158701487223
+    second: movingMirrorPart2_28
+  - first:
+      213: -4732850515305080807
+    second: movingMirrorPart2_29
+  - first:
+      213: 915767607570067111
+    second: movingMirrorPart2_30
+  - first:
+      213: -3884730128416376736
+    second: movingMirrorPart2_31
+  - first:
+      213: -7398768514858767564
+    second: movingMirrorPart2_32
+  - first:
+      213: 5526124512042426377
+    second: movingMirrorPart2_33
+  - first:
+      213: -865103877945756760
+    second: movingMirrorPart2_34
+  - first:
+      213: -614947743739248037
+    second: movingMirrorPart2_35
+  - first:
+      213: -9137471951052537367
+    second: movingMirrorPart2_36
+  - first:
+      213: 1200001395971906816
+    second: movingMirrorPart2_37
+  - first:
+      213: 6525555660288861694
+    second: movingMirrorPart2_38
+  - first:
+      213: 2565076319888297402
+    second: movingMirrorPart2_39
+  - first:
+      213: -5178183111587324688
+    second: movingMirrorPart2_40
+  - first:
+      213: -6261218438365022472
+    second: movingMirrorPart2_41
+  - first:
+      213: 172733502364608265
+    second: movingMirrorPart2_42
+  - first:
+      213: 2149338417032921808
+    second: movingMirrorPart2_43
+  - first:
+      213: 6685524996369579125
+    second: movingMirrorPart2_44
+  - first:
+      213: 3414248481252865562
+    second: movingMirrorPart2_45
+  - first:
+      213: 7936401132035764586
+    second: movingMirrorPart2_46
+  - first:
+      213: 6007876303040982139
+    second: movingMirrorPart2_47
+  - first:
+      213: -8603166584003787992
+    second: movingMirrorPart2_48
+  - first:
+      213: 5806636714930593199
+    second: movingMirrorPart2_49
+  - first:
+      213: 9098517644133678668
+    second: movingMirrorPart2_50
+  - first:
+      213: -2460403404323123336
+    second: movingMirrorPart2_51
+  - first:
+      213: 8023094414626441850
+    second: movingMirrorPart2_52
+  - first:
+      213: 6656734890281368348
+    second: movingMirrorPart2_53
+  - first:
+      213: -8325639679443615782
+    second: movingMirrorPart2_54
+  - first:
+      213: 2833091528388365323
+    second: movingMirrorPart2_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: movingMirrorPart2_0
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96efed9aa7363a8f0800000000000000
+      internalID: -530470952612462999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 400
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec28735661d6c1ef0800000000000000
+      internalID: -136113945773112626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ac150b1b229a610800000000000000
+      internalID: 1632874486461221449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 400
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90c846f3b4c6df70800000000000000
+      internalID: 9211766365043081372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 400
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4919ccd231c55c80800000000000000
+      internalID: -8334543111182542518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f961ae00820e3420800000000000000
+      internalID: 2611527582945995257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f1e353be4841340800000000000000
+      internalID: 4833634445820829476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a345404177130de70800000000000000
+      internalID: 9137858031441433658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b99c549ad57285f0800000000000000
+      internalID: -755912205792405066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141d2fd4d5c6526c0800000000000000
+      internalID: -4168806732066008767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545ddb6e718ca01c0800000000000000
+      internalID: -4536593669641349819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337fe37ae8df2a7c0800000000000000
+      internalID: -4061405124801661133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_12
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 300
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90fadefd60a14df0800000000000000
+      internalID: -197700514339950437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 300
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8b1541ef1e56900800000000000000
+      internalID: 677195800367970497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_14
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f236e9d8862f4ee60800000000000000
+      internalID: 7990778169728590639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_15
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 300
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e442115d7c580a990800000000000000
+      internalID: -7376749096313215922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee85194fef141b70800000000000000
+      internalID: 8868748678783143658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b31a36b898002d0800000000000000
+      internalID: -3314498093979714694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeedec7a6a41eda0800000000000000
+      internalID: -5917366614165164376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9335ba3498883dce0800000000000000
+      internalID: -1381610537545411783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc78824d501959c0800000000000000
+      internalID: -3938098406424544065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddba4d06f19b9cec0800000000000000
+      internalID: -3546099687157879843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8624cfa4d84ced840800000000000000
+      internalID: 5250850326688055912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_23
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 200
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211eea703f2fcc010800000000000000
+      internalID: 1210609525475696914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_24
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584322b357a6e8540800000000000000
+      internalID: 5012060487045756037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_25
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 200
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9b7781f6a8ca390800000000000000
+      internalID: -7805711844383409698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 200
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075f2e8d85e209430800000000000000
+      internalID: 3787578245749339504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff756f85d2bce8a0800000000000000
+      internalID: -6274443550530371593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b35ca1930c0f0f0800000000000000
+      internalID: -1085156158701487223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91857343889815eb0800000000000000
+      internalID: -4732850515305080807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aee50289c575bc00800000000000000
+      internalID: 915767607570067111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068fb77c78aa61ac0800000000000000
+      internalID: -3884730128416376736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43baf707c3b425990800000000000000
+      internalID: -7398768514858767564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 100
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9002edc07fcb0bc40800000000000000
+      internalID: 5526124512042426377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_34
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 100
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3fa354b988ef3f0800000000000000
+      internalID: -865103877945756760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_35
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 100
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b528ef209444777f0800000000000000
+      internalID: -614947743739248037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_36
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 100
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e10b644cad213180800000000000000
+      internalID: -9137471951052537367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_37
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 100
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dd0e869e247a010800000000000000
+      internalID: 1200001395971906816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5ae859c4e6f8a50800000000000000
+      internalID: 6525555660288861694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd45b4925bf89320800000000000000
+      internalID: 2565076319888297402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc19eb25e56328b0800000000000000
+      internalID: -5178183111587324688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f67020f00fab19a0800000000000000
+      internalID: -6261218438365022472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movingMirrorPart2_42
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9076049843ca56200800000000000000
+      internalID: 172733502364608265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

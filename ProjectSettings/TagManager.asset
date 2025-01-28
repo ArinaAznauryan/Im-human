@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - fluff
+  - follower
+  - downJoystick
+  - upJoystick
+  - rightJoystick
+  - leftJoystick
+  - right-1Joystick
+  - right1Joystick
+  - left-1Joystick
+  - left1Joystick
+  - worldFollower
+  - acorn
+  - joystickWorldFollower
+  - canvasFollower
+  - joystickFollower
+  - foundBunny
+  - apple
+  - foundHedgehog
+  - hint
+  - glass
+  - hintDispencer
+  - joystick
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - levelBounds
+  - levelDoor
+  - movableObj
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ghost
+    uniqueID: 541130147
+    locked: 0

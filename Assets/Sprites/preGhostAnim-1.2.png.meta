@@ -1,0 +1,1512 @@
+fileFormatVersion: 2
+guid: 28b4cf791c2b8f14687e526775486fa5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5161455913762013086
+    second: preGhostAnim-1.2_0
+  - first:
+      213: 2266831411322091655
+    second: preGhostAnim-1.2_1
+  - first:
+      213: -7081515158660385937
+    second: preGhostAnim-1.2_2
+  - first:
+      213: -4684195892995798744
+    second: preGhostAnim-1.2_3
+  - first:
+      213: -2466911544420942074
+    second: preGhostAnim-1.2_4
+  - first:
+      213: -1240595369263598860
+    second: preGhostAnim-1.2_5
+  - first:
+      213: -6134676548745509094
+    second: preGhostAnim-1.2_6
+  - first:
+      213: -3846895402429455132
+    second: preGhostAnim-1.2_7
+  - first:
+      213: -5550916461477034487
+    second: preGhostAnim-1.2_8
+  - first:
+      213: 3375082722994107640
+    second: preGhostAnim-1.2_9
+  - first:
+      213: 6349164699725869501
+    second: preGhostAnim-1.2_10
+  - first:
+      213: -3896816912169744437
+    second: preGhostAnim-1.2_11
+  - first:
+      213: 4470056042194793320
+    second: preGhostAnim-1.2_12
+  - first:
+      213: 9160696098642709220
+    second: preGhostAnim-1.2_13
+  - first:
+      213: 4861877069663190273
+    second: preGhostAnim-1.2_14
+  - first:
+      213: 2605931610157523428
+    second: preGhostAnim-1.2_15
+  - first:
+      213: 6310521573663515580
+    second: preGhostAnim-1.2_16
+  - first:
+      213: -8425197952790943881
+    second: preGhostAnim-1.2_17
+  - first:
+      213: -3192810829243027975
+    second: preGhostAnim-1.2_18
+  - first:
+      213: 6453256119844475113
+    second: preGhostAnim-1.2_19
+  - first:
+      213: 4201613173996600741
+    second: preGhostAnim-1.2_20
+  - first:
+      213: 8144311190713896419
+    second: preGhostAnim-1.2_21
+  - first:
+      213: 7691370570905265998
+    second: preGhostAnim-1.2_22
+  - first:
+      213: 5872959787905386603
+    second: preGhostAnim-1.2_23
+  - first:
+      213: 7098625491364047465
+    second: preGhostAnim-1.2_24
+  - first:
+      213: -385122167373243452
+    second: preGhostAnim-1.2_25
+  - first:
+      213: 239462960110229667
+    second: preGhostAnim-1.2_26
+  - first:
+      213: 5893044187513802593
+    second: preGhostAnim-1.2_27
+  - first:
+      213: 3685069300384797171
+    second: preGhostAnim-1.2_28
+  - first:
+      213: 2743990898549048178
+    second: preGhostAnim-1.2_29
+  - first:
+      213: -588374999019994757
+    second: preGhostAnim-1.2_30
+  - first:
+      213: -3605796035744434154
+    second: preGhostAnim-1.2_31
+  - first:
+      213: -1162752581942458878
+    second: preGhostAnim-1.2_32
+  - first:
+      213: 2365600378950235638
+    second: preGhostAnim-1.2_33
+  - first:
+      213: 9046712905734258752
+    second: preGhostAnim-1.2_34
+  - first:
+      213: -8634872682594844852
+    second: preGhostAnim-1.2_35
+  - first:
+      213: 4280254939578832709
+    second: preGhostAnim-1.2_36
+  - first:
+      213: 8122145322316509923
+    second: preGhostAnim-1.2_37
+  - first:
+      213: -1573152502213287090
+    second: preGhostAnim-1.2_38
+  - first:
+      213: 6265937284651965673
+    second: preGhostAnim-1.2_39
+  - first:
+      213: -2587149322888002710
+    second: preGhostAnim-1.2_40
+  - first:
+      213: -7749394435071124838
+    second: preGhostAnim-1.2_41
+  - first:
+      213: 8336100980014888769
+    second: preGhostAnim-1.2_42
+  - first:
+      213: -8784880181050244615
+    second: preGhostAnim-1.2_43
+  - first:
+      213: 2133424361169874250
+    second: preGhostAnim-1.2_44
+  - first:
+      213: -8051712587206392440
+    second: preGhostAnim-1.2_45
+  - first:
+      213: 2327606545271271595
+    second: preGhostAnim-1.2_46
+  - first:
+      213: -9182095336842774794
+    second: preGhostAnim-1.2_47
+  - first:
+      213: -721595180631692731
+    second: preGhostAnim-1.2_48
+  - first:
+      213: -4981458564764347330
+    second: preGhostAnim-1.2_49
+  - first:
+      213: -5874014897104657227
+    second: preGhostAnim-1.2_50
+  - first:
+      213: -3424793166996261884
+    second: preGhostAnim-1.2_51
+  - first:
+      213: 6673710562875716239
+    second: preGhostAnim-1.2_52
+  - first:
+      213: -7659615743372271616
+    second: preGhostAnim-1.2_53
+  - first:
+      213: 9114671082307789992
+    second: preGhostAnim-1.2_54
+  - first:
+      213: -3121065324173353767
+    second: preGhostAnim-1.2_55
+  - first:
+      213: -8692256204009682047
+    second: preGhostAnim-1.2_56
+  - first:
+      213: 6569058336951322571
+    second: preGhostAnim-1.2_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 42
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 350
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26040686133de58b0800000000000000
+      internalID: -5161455913762013086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 350
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788fc8d8827657f10800000000000000
+      internalID: 2266831411322091655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 350
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63f0809b7769bd90800000000000000
+      internalID: -7081515158660385937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 350
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82944ab37a46efeb0800000000000000
+      internalID: -4684195892995798744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 351
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fba764505c3cdd0800000000000000
+      internalID: -2466911544420942074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 351
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f27c09a51588cee0800000000000000
+      internalID: -1240595369263598860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 351
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17ca1c8e204ddaa0800000000000000
+      internalID: -6134676548745509094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 351
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4eb1263051d9ac0800000000000000
+      internalID: -3846895402429455132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 301
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9060bc763ee27f2b0800000000000000
+      internalID: -5550916461477034487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 301
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f43f97cad3b6de20800000000000000
+      internalID: 3375082722994107640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 301
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db13c93b7a3cc1850800000000000000
+      internalID: 6349164699725869501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 301
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc743632aa9bbe9c0800000000000000
+      internalID: -3896816912169744437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 301
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863fb197944d80e30800000000000000
+      internalID: 4470056042194793320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 301
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eac7e6f094512f70800000000000000
+      internalID: 9160696098642709220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d34ee7f6bd87340800000000000000
+      internalID: 4861877069663190273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 300
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1a66c1ef02a2420800000000000000
+      internalID: 2605931610157523428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb327a9cfe9739750800000000000000
+      internalID: 6310521573663515580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 250
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7772c8db91fa31b80800000000000000
+      internalID: -8425197952790943881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 250
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fde2ff877bd0b3d0800000000000000
+      internalID: -3192810829243027975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 250
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e012fb00429e8950800000000000000
+      internalID: 6453256119844475113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 250
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad3bafabe02f4a30800000000000000
+      internalID: 4201613173996600741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 250
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed8db6a0e7660170800000000000000
+      internalID: 8144311190713896419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 250
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47a3ba98cc3dba60800000000000000
+      internalID: 7691370570905265998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 250
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6801429fc1f08150800000000000000
+      internalID: 5872959787905386603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a69463642638260800000000000000
+      internalID: 7098625491364047465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 200
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbd692ed65c7aaf0800000000000000
+      internalID: -385122167373243452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_26
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 200
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8db322b4eb25300800000000000000
+      internalID: 239462960110229667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 200
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fc072477c48c150800000000000000
+      internalID: 5893044187513802593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 200
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1122e110ff32330800000000000000
+      internalID: 3685069300384797171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_29
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 200
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273cbe61f2d941620800000000000000
+      internalID: 2743990898549048178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_30
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 200
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7141b44e0ca5d7f0800000000000000
+      internalID: -588374999019994757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_31
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 199
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618f0fc1c93a5fdc0800000000000000
+      internalID: -3605796035744434154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 149
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206c6afefa21ddfe0800000000000000
+      internalID: -1162752581942458878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 149
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5bbdbd20d44d020800000000000000
+      internalID: 2365600378950235638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_34
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 149
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0408b3bc4716c8d70800000000000000
+      internalID: 9046712905734258752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_35
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 149
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fb5317b05ca2880800000000000000
+      internalID: -8634872682594844852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_36
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 149
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54715b59035866b30800000000000000
+      internalID: 4280254939578832709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_37
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 149
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2b6ce3328a7b070800000000000000
+      internalID: 8122145322316509923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_38
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 149
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e436f08522a0b2ae0800000000000000
+      internalID: -1573152502213287090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_39
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 149
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec5e8413c415f650800000000000000
+      internalID: 6265937284651965673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 99
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a634e5ce569981cd0800000000000000
+      internalID: -2587149322888002710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 99
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a5231c1de947490800000000000000
+      internalID: -7749394435071124838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 99
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147b29dbca7cfa370800000000000000
+      internalID: 8336100980014888769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_43
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 99
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f181260506d51680800000000000000
+      internalID: -8784880181050244615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_44
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 99
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4de1b237227b9d10800000000000000
+      internalID: 2133424361169874250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_45
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 99
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885850ecf02924090800000000000000
+      internalID: -8051712587206392440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 99
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0b4cb12d15d4020800000000000000
+      internalID: 2327606545271271595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 99
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f637b1a0f4a29080800000000000000
+      internalID: -9182095336842774794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 50
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a60d2a1016cf5f0800000000000000
+      internalID: -721595180631692731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_49
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 50
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34d4e704dd4edab0800000000000000
+      internalID: -4981458564764347330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_50
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 50
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b469bca29e4b7ea0800000000000000
+      internalID: -5874014897104657227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_51
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 50
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404b00c82c0b870d0800000000000000
+      internalID: -3424793166996261884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_52
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 50
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82baf9e568cd9c50800000000000000
+      internalID: 6673710562875716239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_53
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 50
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0006e44501493b590800000000000000
+      internalID: -7659615743372271616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_54
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 50
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a42b79ce01dd7e70800000000000000
+      internalID: 9114671082307789992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_55
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 50
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc9bdfaf9fbfa4d0800000000000000
+      internalID: -3121065324173353767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b41573907ee5780800000000000000
+      internalID: -8692256204009682047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preGhostAnim-1.2_57
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc74dcac0cbf92b50800000000000000
+      internalID: 6569058336951322571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
