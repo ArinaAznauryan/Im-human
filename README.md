@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/b539be71-d589-418f-8640-47940651dd37
 1. **Download and Install Unity**: Make sure you have Unity installed (recommended version: [2020.3.25]).
 2. **Clone the repository**: Write the following command to clone the repository to your PC.
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/ArinaAznauryan/Im-human.git
     ```
 3. **Open in Unity**: Open the cloned project in Unity.
 4. **Play**: Press Play in the Unity editor to start the project.
